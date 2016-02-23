@@ -2,13 +2,13 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1456148220728" ID="ID_1175640796" MODIFIED="1456148254260" TEXT="agile">
 <node CREATED="1456148254869" ID="ID_1753285339" MODIFIED="1456148256988" POSITION="right" TEXT="XP">
-<node CREATED="1456148299553" ID="ID_586334553" MODIFIED="1456150606855">
+<node CREATED="1456148299553" ID="ID_586334553" MODIFIED="1456218367414">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="xp.gif" />
+    <img src="../images_and_etc/xp.gif" />
   </body>
 </html>
 </richcontent>
@@ -52,13 +52,13 @@
 <node CREATED="1456148604064" ID="ID_1884925459" MODIFIED="1456148608540" TEXT="Testing"/>
 </node>
 </node>
-<node CREATED="1456148257554" ID="ID_279868598" MODIFIED="1456151955806" POSITION="right">
+<node CREATED="1456148257554" ID="ID_279868598" MODIFIED="1456218378947" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="scrum/ScrumExplained-4-620.jpg" />
+    <img src="../images_and_etc/scrum/ScrumExplained-4-620.jpg" />
   </body>
 </html>
 </richcontent>
